@@ -1,4 +1,4 @@
-# testes-xp-minicamp
+# verificaNumeroPrimo-minicampXP
 Teste prático realizado durante o Minicamp Data & Dev - XPE.
 Objetivo - Exercitar os seguintes conceitos trabalhados no Módulo: Programação em JavaScript. 
 Foi criado um programa para informar se determinado número é primo ou não. 
